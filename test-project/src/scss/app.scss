@@ -1,0 +1,23 @@
+@import './normalize';
+@import './components/header.scss';
+@import './components/smartBlock.scss';
+@import './components/sideBar.scss';
+
+@font-face {
+  font-family:'Gotham Pro' ;
+  src: url('../fonts/ofont.ru_Gotham\ Pro.ttf');
+}
+
+
+body{
+  font-family:'Gotham Pro', sans-serif ;
+  background-color: #fff;
+}
+
+
+
+.container{
+  margin-left: 320px;
+  height: 100vh;
+  width: 717px
+}
