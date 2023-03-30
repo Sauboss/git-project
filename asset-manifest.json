@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/git-project/static/css/main.e79c1c13.css",
+    "main.js": "/git-project/static/js/main.f5259ccb.js",
+    "static/media/User.svg": "/git-project/static/media/User.d2620bbf053770f260b48d9aff90f00b.svg",
+    "static/media/Logo.svg": "/git-project/static/media/Logo.b61e46de04ec8a6221d6471ddc2ebf3f.svg",
+    "static/media/ofont.ru_Gotham Pro.ttf": "/git-project/static/media/ofont.ru_Gotham Pro.460892a76436eac7ff56.ttf",
+    "static/media/Vector-1.svg": "/git-project/static/media/Vector-1.82a649b4427fdf232607be86fbcc1f00.svg",
+    "static/media/Vector-3.svg": "/git-project/static/media/Vector-3.73de5a3a316a819eec68824ebdc9dc11.svg",
+    "static/media/Vector-6.svg": "/git-project/static/media/Vector-6.c1d9b2f611cdeb3f65390142986e5a68.svg",
+    "static/media/Vector-2.svg": "/git-project/static/media/Vector-2.5576af6acb924e0fa9b0dae13e89f470.svg",
+    "static/media/Vector-5.svg": "/git-project/static/media/Vector-5.3d4dab63f59d4030c6abc115176377ce.svg",
+    "static/media/Vector-4.svg": "/git-project/static/media/Vector-4.f5247af0cadfec41e771448f7ff43e9b.svg",
+    "index.html": "/git-project/index.html",
+    "static/media/Plus.svg": "/git-project/static/media/Plus.bcd68da703567f04f25158bb6bc732f5.svg",
+    "main.e79c1c13.css.map": "/git-project/static/css/main.e79c1c13.css.map",
+    "main.f5259ccb.js.map": "/git-project/static/js/main.f5259ccb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e79c1c13.css",
+    "static/js/main.f5259ccb.js"
+  ]
+}
