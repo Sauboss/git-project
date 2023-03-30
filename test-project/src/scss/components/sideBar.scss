@@ -4,7 +4,9 @@
 	position: fixed;
 	top: 24px;
 	left: 32px;
-  
+  .menu__logo{
+    margin-bottom: 48px;
+  }
   .sidebar__menu {
     
     li:not(:first-child) {
